@@ -1,0 +1,11 @@
+:is(.dark .dark\:bg-gradient-black) {
+  background-image: url("/media/banners/dark-black-gradient.jpg");
+}
+
+:is(.dark .dark\:bg-gradient-blue) {
+  background-image: url("/media/banners/dark-blue-gradient.jpg");
+}
+
+:is(.dark .dark\:bg-gradient-purple) {
+  background-image: url("/media/banners/dark-purple-gradient.jpg");
+}

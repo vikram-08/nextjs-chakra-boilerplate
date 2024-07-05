@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["core/*"],
+      "@/app/*": ["app/[lang]/*"],
+      "@/components": ["core/components"],
+      "@/components/*": ["core/components/*"],
+      "@/config": ["core/config"],
+      "@/config/*": ["core/config/*"],
+      "@/constants": ["core/constants"],
+      "@/constants/*": ["core/constants/*"],
+      "@/contexts": ["core/contexts"],
+      "@/contexts/*": ["core/contexts/*"],
+      "@/endpoints": ["core/endpoints"],
+      "@/endpoints/*": ["core/endpoints/*"],
+      "@/hooks": ["core/hooks"],
+      "@/hooks/*": ["core/hooks/*"],
+      "@/locales": ["core/locales"],
+      "@/locales/*": ["core/locales/*"],
+      "@/mdx": ["core/mdx"],
+      "@/mdx-components": ["core/mdx/components"],
+      "@/mdx-components/*": ["core/mdx/components/*"],
+      "@/pkg": ["package.json"],
+      "@/provider": ["core/provider"],
+      "@/provider/*": ["core/provider/*"],
+      "@/theme": ["core/theme"],
+      "@/theme/*": ["core/theme/*"],
+      "@/utils": ["core/utils"],
+      "@/utils/*": ["core/utils/*"]
+    }
+  }
+}

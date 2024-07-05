@@ -1,0 +1,21 @@
+{
+  "textAppName": "MyApp",
+  "textBackToHome": "Home",
+  "pageNotFoundMessages": [
+    "Oops! The page you are looking for has gone on a vacation.",
+    "404 Error: The page was abducted by aliens!",
+    "Uh-oh! It seems you've entered the twilight zone of the internet.",
+    "Error 404: Page not found, but the fun is just beginning.",
+    "404 Error: The page is social distancing from the internet.",
+    "This is not the web page you're looking for. (Jedi mind trick)",
+    "404 Error: This page is lost in cyberspace.",
+    "404 Error: The internet gremlins have been at it again!",
+    "Oops! Looks like this page went on a coffee break.",
+    "Error 404: The page is practicing social isolation."
+  ],
+  "errors": {
+    "notFound": "404",
+    "forbidden": "403",
+    "serverBusy": "503"
+  }
+}

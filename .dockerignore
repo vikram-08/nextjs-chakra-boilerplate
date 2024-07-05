@@ -1,0 +1,47 @@
+# .dockerignore file
+
+# Ignore workspace settings
+.vscode/
+
+# Ignore next build files
+.next/
+
+# Ignore Node.js modules
+node_modules/
+
+# Ignore Python virtual environments
+.venv/
+
+# Ignore Ruby gems
+vendor/gems/
+
+# Ignore Java build artifacts
+target/
+
+# Ignore test artifacts
+test/
+
+# Ignore documentation
+docs/
+
+# Ignore logs
+logs/
+
+# Ignore temporary files
+tmp/
+.tmp/
+
+# Ignore IDE-specific files
+.idea/
+
+# Ignore build artifacts
+build/
+.cache/
+
+# Env files
+.env*.local
+
+# Ignore Docker build context files
+.dockerignore
+Dockerfile
+.dockerignore

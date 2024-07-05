@@ -1,0 +1,18 @@
+{
+  "environments": {
+    "dev": "development",
+    "test": "test",
+    "prod": "production"
+  },
+  "appTheme": {
+    "light": "light",
+    "dark": "dark",
+    "default": "light"
+  },
+  "pages": {
+    "home": "/home"
+  },
+  "nonLocaleFolders": ["sitemap"],
+  "apiEndPoints": {
+  }
+}
